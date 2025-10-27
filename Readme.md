@@ -1,0 +1,5 @@
+# chai aur backend series
+
+This is me learning backend with Hitesh Sir
+
+-[Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0xYM3gzNmZLS2hPUC1iMVR2VTlEVzVpdmhVd3xBQ3Jtc0trUWh1M1k2Vll6OW5TU05YSEl5cE9sNkFLYjZ5bEV1T2k4S0tQSXpYbTQ4eU9kTGdZUmlWc21TSHlnTEwxUWZiVWU5WGpiQkJSdEhTVW1YR25MdDd0cWlmbXZ2OGdocGxrLWxoNlhIZWdUN2VhalMtOA&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
